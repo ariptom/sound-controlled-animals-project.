@@ -1,0 +1,12 @@
+.header_div{
+    background-color: wheat;
+    color: red;
+    font-family: 'Comic Neue', cursive;
+}
+.header_div p{
+    font-family: 'Playfair Display', serif;
+    font-size: medium;
+    color: grey;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
